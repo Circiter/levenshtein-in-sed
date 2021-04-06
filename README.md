@@ -15,5 +15,7 @@ You can compile it with e.g., `gcc -o reference reference.c` and use it to
 check a results returned by the sed-script.
 
 (C) Author of the script: Circiter (mailto:xcirciter@gmail.com)
+
 Repository: https://github.com/Circiter/levenshtein-in-sed
+
 License: MIT.
